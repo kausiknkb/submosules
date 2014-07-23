@@ -1,0 +1,12 @@
+[submodule "chef-td-agent"]
+	path = chef-td-agent
+	url = https://github.com/kausiknkb/chef-td-agent.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "java"]
+	path = java
+	url = https://github.com/socrata-cookbooks/java.git
